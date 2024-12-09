@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://files.catbox.moe/1j0vr8.ipa</string>
+					<string>https://github.com/wrapjss/uYouPlus/releases/download/v19.47.7-3.0.4-(1)/uYouPlus_19.47.7-3.0.4.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tableud.AppleWare</string>
+				<string>com.google.ios.youtube</string>
 				<key>bundle-version</key>
-				<string>2.652.762</string>
+				<string>19.49.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Hacked Roblox</string>
+				<string>iYouPlus</string>
 			</dict>
 		</dict>
 	</array>
