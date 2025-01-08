@@ -13,6 +13,18 @@
 					<key>url</key>
 					<string>https://github.com/wrapjss/uYouPlus/releases/download/v19.47.7-3.0.4-(1)/uYouPlus_19.47.7-3.0.4.ipa</string>
 				</dict>
+                                <dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://static.wikia.nocookie.net/ipod/images/e/e7/YouTube_iOS_2019.png/revision/latest?cb=20200610180756</string>
+				</dict>
+                                <dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://static.wikia.nocookie.net/ipod/images/e/e7/YouTube_iOS_2019.png/revision/latest?cb=20200610180756</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
